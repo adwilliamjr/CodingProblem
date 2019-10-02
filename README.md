@@ -14,3 +14,11 @@ Input => aabcdeef  Output=> abcdef
 Write Unit Test for your function
 
 # Tested in Visual Studio 2017/ 2019
+
+# Usage
+
+git clone https://github.com/adwilliamjr/CodingProblem.git
+Open solution file CodingProblems.sln
+Clean solution and Rebuild solution
+Set as startup project CodingProblem1 and run
+OR run tests in UnitTestProject1
