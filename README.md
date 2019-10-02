@@ -17,8 +17,8 @@ Write Unit Test for your function
 
 # Usage
 
-git clone https://github.com/adwilliamjr/CodingProblem.git
-Open solution file CodingProblems.sln
-Clean solution and Rebuild solution
-Set as startup project CodingProblem1 and run
-OR run tests in UnitTestProject1
+1. git clone https://github.com/adwilliamjr/CodingProblem.git
+2. Open solution file CodingProblems.sln
+3. Clean solution and Rebuild solution
+4. Set as startup project CodingProblem1 and run
+5. OR run tests in UnitTestProject1
